@@ -24,10 +24,10 @@ telnet 127.0.0.1 4000
 ### 5. Execution Command (CLIENT SIDE)
 
 bash: to login
-LOGIN <username>
+LOGIN username
 
 bash: to MSG
-MSG <text>
+MSG text
 
 
 
